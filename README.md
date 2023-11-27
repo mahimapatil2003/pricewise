@@ -1,22 +1,3 @@
-# Web Scraping Full Course 2023 | Build and Deploy eCommerce Price Tracker
-![Web Scraping](https://i.ibb.co/jR6LM2T/Thumbnail.png)
-
-## Introduction
-Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.
-
-## Become a top 1% Next.js 13 developer in only one course
-https://www.jsmastery.pro/next13
-
-## Land your dream programming job in 6 months
-https://www.jsmastery.pro/masterclass
-
-
-## Overview
-
-Welcome to the Pricewise project, a comprehensive solution for tracking product prices on Amazon. This project is designed to scrape product details from Amazon, store the data in a MongoDB database, and send email notifications to users when there are changes in the product details. The project includes a web application with a user-friendly interface that allows users to search for products, view product details, and subscribe to product updates. The application is built with Next.js and Tailwind CSS, and it includes several components such as a home page, product details page, navbar, search bar, product card, price info card, and modal.
-
-The server-side logic is implemented with serverless functions that handle various tasks such as connecting to the database, scraping product details, updating product information, and sending email notifications. The project also includes several utility functions for extracting information from web pages and formatting numbers.
-
 # Technologies and Frameworks
 
 - Next.js: A React framework for building web applications. It is used for both the frontend and the backend of the application.
